@@ -49,4 +49,7 @@ public class AgingItemTest {
         assert(app.items[0].sellIn == 7);
         assert(app.items[0].quality == 50);
     }
+
+    public static class TestSwitchItem {
+    }
 }
